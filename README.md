@@ -16,7 +16,7 @@
 
 # ETL
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Alteryx]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/250px-Alteryx_logo.svg.png" width="100" target="_blank" />](https://www.alteryx.com)
 
 
 # Data Visualisation
