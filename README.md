@@ -10,7 +10,7 @@
 
 # Language
 [<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100" target="_blank" />](https://www.python.org)
-![<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100" target="_blank" />](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100" target="_blank" />](https://www.python.org/static/community_logos/python-logo-generic.svg)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
 
