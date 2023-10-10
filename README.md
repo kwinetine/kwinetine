@@ -7,7 +7,7 @@
 -->
 
 # Language
-![Python](https://img.shields.io/badge/build-passing-brightgreen?logo=python&label=Python&link=python.org)
+![Python](https://img.shields.io/badge/build--brightgreen?logo=python&label=Python&link=python.org)
 
 [<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100" target="_blank" />](https://www.python.org)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
