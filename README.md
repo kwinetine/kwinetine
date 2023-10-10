@@ -9,6 +9,8 @@
 
 
 # Language
+![Python](https://img.shields.io/badge/build-passing-brightgreen?logo=python&label=Python&link=python.org)
+
 [<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100" target="_blank" />](https://www.python.org)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
@@ -46,9 +48,10 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-# Cyber
+# Security
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+[<img src="https://assets.tryhackme.com/img/THMlogo.png" width="100" target="_blank" />](https://www.tryhackme.com)
 
 # Management
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
