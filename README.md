@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @kwinetine
 <!--
+- 👋 Hi, I’m @kwinetine
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
-
-
 
 # Language
 ![Python](https://img.shields.io/badge/build-passing-brightgreen?logo=python&label=Python&link=python.org)
@@ -90,7 +88,10 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
 # My accounts
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="32" width="32" target="_blank" />](https://www.linkedin.com/in/q-vdh)
+<!--
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+-->
