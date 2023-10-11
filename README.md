@@ -18,7 +18,7 @@
 # ETL
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KNIMELogoTM.svg/240px-KNIMELogoTM.svg.png" width="100" target="_blank" />](https://www.knime.com)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/250px-Alteryx_logo.svg.png" width="100" target="_blank" />](https://www.alteryx.com)
-[<img src="https://en.wikipedia.org/wiki/Databricks#/media/File:Databricks_Logo.png" width="100" target="_blank" />](https://www.databricks.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/480px-Databricks_Logo.png" width="100" target="_blank" />](https://www.databricks.com)
 
 
 # Data Visualisation
