@@ -6,6 +6,13 @@
 - 📫 How to reach me ...
 -->
 
+# Security
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+[<img src="https://iutdijon.u-bourgogne.fr/mahara/view/view.php?profile=hamadidaghar&page=la-securite-informatique-sur-root-me#" width="100" target="_blank" />](https://www.root-me.org)
+![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+[<img src="https://assets.tryhackme.com/img/THMlogo.png" width="100" target="_blank" />](https://www.tryhackme.com)
+
+
 # Language
 <!--
 ![Python](https://img.shields.io/badge/build--brightgreen?logo=python&label=Python&link=python.org)
@@ -53,10 +60,7 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
-# Security
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-[<img src="https://assets.tryhackme.com/img/THMlogo.png" width="100" target="_blank" />](https://www.tryhackme.com)
+
 
 # Management
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
