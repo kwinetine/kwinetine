@@ -78,7 +78,7 @@
 
 
 # Testing
-[<img src="https://www.edforce.co/wp-content/uploads/2021/06/cucumber-logo-200x230.png" width="50" target="_blank" />]()
+[<img src="https://www.edforce.co/wp-content/uploads/2021/06/cucumber-logo-200x230.png" width="25" target="_blank" />]()
 [<img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/xray.png" width="50" target="_blank" />]()
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 [<img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" width="100" target="_blank" />]()
