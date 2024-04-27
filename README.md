@@ -22,7 +22,7 @@
 <!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
 
 
-# ETL / Data Viz / AI
+# ETL / Data Viz
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/250px-Alteryx_logo.svg.png" width="100" target="_blank" />](https://www.alteryx.com)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KNIMELogoTM.svg/240px-KNIMELogoTM.svg.png" width="100" target="_blank" />](https://www.knime.com)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Databricks_Logo.png/480px-Databricks_Logo.png" width="100" target="_blank" />](https://www.databricks.com)
@@ -36,11 +36,19 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
 
+
+# AI
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" target="_blank" />](https://gemini.google.com)
 [<img src="https://seeklogo.com/images/M/mistral-ai-logo-4539E12887-seeklogo.com.png" width="100" target="_blank" />](https://mistral.ai/)
-[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Ffacebook-meta7158.jpg&f=1&nofb=1&ipt=5e398e31ace50e2e1823e1de7114efe9b943227cd604d26f1a8b937ee6aadcf5&ipo=images" width="100" target="_blank" />](https://llama.meta.com/)
+[<img src="https://zeevector.com/wp-content/uploads/Meta-icon-Logo-PNG-SVG-format.png" width="100" target="_blank" />](https://llama.meta.com/)
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="100" target="_blank" />]()
 
+
+
+# IDE / Editor
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 # Libraries
@@ -56,10 +64,6 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-
-
-# IDE / Editor
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 # Version Control
