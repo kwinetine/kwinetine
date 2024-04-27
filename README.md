@@ -22,6 +22,12 @@
 <!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
 
 
+# IDE / Editor
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+
+
 # ETL / Data Viz
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Alteryx_logo.svg/250px-Alteryx_logo.svg.png" width="100" target="_blank" />](https://www.alteryx.com)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/KNIMELogoTM.svg/240px-KNIMELogoTM.svg.png" width="100" target="_blank" />](https://www.knime.com)
@@ -30,7 +36,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
@@ -43,12 +48,6 @@
 [<img src="https://seeklogo.com/images/M/mistral-ai-logo-4539E12887-seeklogo.com.png" width="100" target="_blank" />](https://mistral.ai/)
 [<img src="https://zeevector.com/wp-content/uploads/Meta-icon-Logo-PNG-SVG-format.png" width="50" target="_blank" />](https://llama.meta.com/)
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="50" target="_blank" />]()
-
-
-
-# IDE / Editor
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
 
 # Libraries
