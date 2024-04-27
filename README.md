@@ -41,8 +41,8 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" target="_blank" />](https://gemini.google.com)
 [<img src="https://seeklogo.com/images/M/mistral-ai-logo-4539E12887-seeklogo.com.png" width="100" target="_blank" />](https://mistral.ai/)
-[<img src="https://zeevector.com/wp-content/uploads/Meta-icon-Logo-PNG-SVG-format.png" width="100" target="_blank" />](https://llama.meta.com/)
-[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="100" target="_blank" />]()
+[<img src="https://zeevector.com/wp-content/uploads/Meta-icon-Logo-PNG-SVG-format.png" width="50" target="_blank" />](https://llama.meta.com/)
+[<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="50" target="_blank" />]()
 
 
 
