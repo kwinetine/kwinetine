@@ -39,7 +39,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" target="_blank" />](https://gemini.google.com)
 [<img src="https://seeklogo.com/images/M/mistral-ai-logo-4539E12887-seeklogo.com.png" width="100" target="_blank" />](https://mistral.ai/)
-[<img src="https://static.vecteezy.com/system/resources/previews/004/263/114/original/meta-logo-meta-by-facebook-icon-editorial-logo-for-social-media-free-vector.jpg" width="100" target="_blank" />](https://llama.meta.com/)Llama 3
+[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogowik.com%2Fcontent%2Fuploads%2Fimages%2Ffacebook-meta7158.jpg&f=1&nofb=1&ipt=5e398e31ace50e2e1823e1de7114efe9b943227cd604d26f1a8b937ee6aadcf5&ipo=images" width="100" target="_blank" />](https://llama.meta.com/)
 
 
 
