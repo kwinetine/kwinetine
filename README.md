@@ -22,8 +22,8 @@
 
 
 # Security
-[<img src="https://assets.tryhackme.com/img/THMlogo.png" width="100" target="_blank" />](https://www.tryhackme.com)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![HackerOne](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)
 [<img src="https://iutdijon.u-bourgogne.fr/mahara/artefact/file/download.php?file=2523&view=609&time=1697377278" width="100" target="_blank" />](https://www.root-me.org)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 [<img src="https://i0.wp.com/logon-int.com/wp-content/uploads/2020/08/burpsuite-logo-large-01.png" width="100" target="_blank" />](https://portswigger.net/burp)
@@ -45,6 +45,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![SublimText](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 
 # ETL / Data Viz
@@ -62,10 +63,10 @@
 
 
 # AI
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" target="_blank" />](https://gemini.google.com)
 [<img src="https://seeklogo.com/images/M/mistral-ai-logo-4539E12887-seeklogo.com.png" width="100" target="_blank" />](https://mistral.ai/)
 [<img src="https://zeevector.com/wp-content/uploads/Meta-icon-Logo-PNG-SVG-format.png" width="50" target="_blank" />](https://llama.meta.com/)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" target="_blank" />](https://gemini.google.com)
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="50" target="_blank" />]()
 
 
@@ -87,7 +88,6 @@
 # Version Control
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)
 
 
 # CI/CD
@@ -164,6 +164,7 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+[<img src="https://assets.tryhackme.com/img/THMlogo.png" width="100" target="_blank" />](https://www.tryhackme.com)
 
 
 # My accounts
