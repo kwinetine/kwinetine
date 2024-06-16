@@ -8,7 +8,8 @@
 
 
 # Testing
-[<img src="https://istqb-backend-staging.s3.amazonaws.com/media/images/ISTQB_International_original_web.original.png" width="100" target="_blank" />]() ISTQB® Certified Tester Foundation Level (CTFL) 4.0
+[<img src="https://istqb-backend-staging.s3.amazonaws.com/media/images/ISTQB_International_original_web.original.png" width="100" target="_blank" />]() Certified Tester Foundation Level (CTFL) 4.0
+
 [<img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/53725-logo-2.png" width="100" target="_blank" />]()
 [<img src="https://www.technary.com/wp-content/uploads/2013/06/mantis.jpg" width="100" target="_blank" />]()
 [<img src="https://www.edforce.co/wp-content/uploads/2021/06/cucumber-logo-200x230.png" width="25" target="_blank" />]()
