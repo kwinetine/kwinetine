@@ -6,6 +6,20 @@
 - 📫 How to reach me ...
 -->
 
+
+# Testing
+[<img src="https://istqb-backend-staging.s3.amazonaws.com/media/images/ISTQB_International_original_web.original.png" width="100" target="_blank" />] ISTQB® Certified Tester Foundation Level (CTFL) 4.0
+[<img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/53725-logo-2.png" width="100" target="_blank" />]()
+[<img src="https://www.technary.com/wp-content/uploads/2013/06/mantis.jpg" width="100" target="_blank" />]()
+[<img src="https://www.edforce.co/wp-content/uploads/2021/06/cucumber-logo-200x230.png" width="25" target="_blank" />]()
+[<img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/xray.png" width="50" target="_blank" />]()
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[<img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" width="100" target="_blank" />]()
+[<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="100" target="_blank" />]()
+[<img src="https://vectorseek.com/wp-content/uploads/2023/08/Tricentis-Logo-Vector.svg-.png" width="100" target="_blank" />]()
+[<img src="https://testmatick.com/wp-content/uploads/2021/04/Robot-framework-768x345.png.webp" width="100" target="_blank" />]()
+
+
 # Security
 [<img src="https://assets.tryhackme.com/img/THMlogo.png" width="100" target="_blank" />](https://www.tryhackme.com)
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
@@ -75,18 +89,6 @@
 # CI/CD
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-
-# Testing
-[<img src="http://www.testingtoolsguide.net/wp-content/uploads/2016/11/53725-logo-2.png" width="100" target="_blank" />]()
-[<img src="https://www.technary.com/wp-content/uploads/2013/06/mantis.jpg" width="100" target="_blank" />]()
-[<img src="https://www.edforce.co/wp-content/uploads/2021/06/cucumber-logo-200x230.png" width="25" target="_blank" />]()
-[<img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/xray.png" width="50" target="_blank" />]()
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-[<img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" width="100" target="_blank" />]()
-[<img src="https://appium.io/docs/en/latest/assets/images/appium-logo-horiz.png" width="100" target="_blank" />]()
-[<img src="https://vectorseek.com/wp-content/uploads/2023/08/Tricentis-Logo-Vector.svg-.png" width="100" target="_blank" />]()
-[<img src="https://testmatick.com/wp-content/uploads/2021/04/Robot-framework-768x345.png.webp" width="100" target="_blank" />]()
 
 
 # Others
@@ -162,5 +164,5 @@
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="32" width="32" target="_blank" />](https://www.linkedin.com/in/q-vdh)
 <!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-![test](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
