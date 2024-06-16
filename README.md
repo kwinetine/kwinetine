@@ -32,8 +32,9 @@
 # Language
 <!-- ![Python](https://img.shields.io/badge/build--brightgreen?logo=python&label=Python&link=python.org) -->
 [<img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="100" target="_blank" />](https://www.python.org)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<!-- ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) -->
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
 # IDE / Editor
