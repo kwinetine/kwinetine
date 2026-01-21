@@ -64,7 +64,7 @@
 
 # AI
 [<img src="https://seeklogo.com/images/M/mistral-ai-logo-4539E12887-seeklogo.com.png" width="100" target="_blank" />](https://mistral.ai/)
-[<img src="https://imgs.search.brave.com/eBcva6l8v1ozixuxAJvg8rEdrk_GWDZp4MgWhf0RRFM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92ZWN0/b3JzZWVrLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/Ny9MTGFNQS1NZXRh/LUxvZ28tVmVjdG9y/LnBuZw" width="50" target="_blank" />](https://llama.meta.com/)
+[<img src="https://imgs.search.brave.com/eBcva6l8v1ozixuxAJvg8rEdrk_GWDZp4MgWhf0RRFM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly92ZWN0/b3JzZWVrLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMy8w/Ny9MTGFNQS1NZXRh/LUxvZ28tVmVjdG9y/LnBuZw" width="100" target="_blank" />](https://llama.meta.com/)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="100" target="_blank" />](https://gemini.google.com)
 [<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" width="50" target="_blank" />]()
