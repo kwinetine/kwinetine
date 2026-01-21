@@ -12,7 +12,7 @@
 
 [<img src="https://www.testingtoolsguide.net/wp-content/uploads/2016/11/53725-logo-2.png" width="100" target="_blank" />](SquashTM)
 [<img src="https://www.technary.com/wp-content/uploads/2013/06/mantis.jpg" width="100" target="_blank" />](Mantis)
-[<img src="https://imgs.search.brave.com/pZIfuUb4mCIhA-XVxI1kKOX9skZEW_g4g_Bq_FzcyW8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wNy5o/aWNsaXBhcnQuY29t/L3ByZXZpZXcvMTA4/LzUxNi8xMDA3L2N1/Y3VtYmVyLWJlaGF2/aW9yLWRyaXZlbi1k/ZXZlbG9wbWVudC1z/b2Z0d2FyZS10ZXN0/aW5nLXRlc3QtYXV0/b21hdGlvbi1jYXJ0/b29uLWN1Y3VtYmVy/LmpwZw" width="25" target="_blank" />](Cucumber)
+[<img src="https://imgs.search.brave.com/pZIfuUb4mCIhA-XVxI1kKOX9skZEW_g4g_Bq_FzcyW8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9wNy5o/aWNsaXBhcnQuY29t/L3ByZXZpZXcvMTA4/LzUxNi8xMDA3L2N1/Y3VtYmVyLWJlaGF2/aW9yLWRyaXZlbi1k/ZXZlbG9wbWVudC1z/b2Z0d2FyZS10ZXN0/aW5nLXRlc3QtYXV0/b21hdGlvbi1jYXJ0/b29uLWN1Y3VtYmVy/LmpwZw" width="50" target="_blank" />](Cucumber)
 [<img src="https://www.sparks-formation.com/wp-content/uploads/2020/06/xray.png" width="50" target="_blank" />](xray)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 [<img src="https://d1h3p5fzmizjvp.cloudfront.net/themes/katalon_4/images/header/katalon_logo.svg" width="100" target="_blank" />]()
